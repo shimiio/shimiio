@@ -1,7 +1,7 @@
 # Hi there👋
 
 **Self-taught .NET Backend Developer | Vienna, Austria**  
-Focused on secure architecture and production-ready systems
+Focused on readable and secure architecture.
 
 ---
 
@@ -18,7 +18,7 @@ Focused on secure architecture and production-ready systems
 ## Stack
 
 **Backend & Architecture:**  
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)\
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)\
 `CQRS` `MediatR` `FluentValidation` `Hangfire` `EF Core`
 
 **Frontend:**  
